@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "displayName": "Amazon",
-  "description": "This is an unofficial Google Tag Manager template for LinkedIn conversion tracking.",
+  "description": "This is an unofficial Google Tag Manager template for Amazon Advertising",
   "categories": [ "ADVERTISING","REMARKETING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
