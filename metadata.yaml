@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/amazon/"
+versions:
+  - sha: 78eddb6c88c375e6c06bd1969cf8c4c95b33f6ca
+    changeNotes: Initial release
